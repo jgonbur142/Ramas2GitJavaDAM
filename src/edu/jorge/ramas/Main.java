@@ -12,6 +12,8 @@ public class Main {
             bolas.add(r.nextInt(49) + 1);
         }
 
+        System.out.println("Cambio realizado desde GitHub");
+        
         System.out.println("¡ERROR ERROR!");
 
         System.out.println("¡Suerte en el sorteo, DAM!");
